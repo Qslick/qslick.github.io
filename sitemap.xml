@@ -1,26 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://qslick04.com/index.html</loc>
-    <lastmod>2016-10-20</lastmod>
+    <loc>http://breedlove.xyz/index.html</loc>
+    <lastmod>2016-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://qslick04.com/images/drone3.jpg</loc>
-    <lastmod>2016-10-20</lastmod>
+    <loc>http://breedlove.xyz/hidden.html</loc>
+    <lastmod>2016-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://qslick04.com/assets/particles_11.mp4</loc>
+    <loc>http://breedlove.xyz/images/drone3.jpg</loc>
+    <lastmod>2016-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://breedlove.xyz/assets/particles_11.mp4</loc>
     <lastmod>2016-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://qslick04.com/images/firstoverview-3269.jpg</loc>
-    <lastmod>2016-10-20</lastmod>
+    <loc>http://breedlove.xyz/images/firstoverview-3269.jpg</loc>
+    <lastmod>2016-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
