@@ -25,8 +25,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'sean.kimbell@rockdalecounty.org',
-		'to' => 'sean.kimbell@rockdalecounty.org'
+		'from' => 'jbreedl5@students.kennesaw.edu',
+		'to' => 'jbreedl5@students.kennesaw.edu'
 	),
 	'fields' => array(
 		'custom_U462' => array(
