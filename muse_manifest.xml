@@ -1,60 +1,49 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1477378495607">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1477416845348">
   <folder name="css">
     <file name="site_global.css" crc="392513574"/>
-    <file name="master_a-master.css" crc="4121946120" ref="home"/>
-    <file name="index.css" crc="391420033" ref="index"/>
-    <file name="home.css" crc="4197849511" ref="home"/>
+    <file name="master_a-master.css" crc="210332527" ref="index"/>
+    <file name="index.css" crc="520298448" ref="index"/>
+    <file name="coming-soon.css" crc="391420033" ref="coming-soon"/>
   </folder>
   <folder name="assets">
     <file name="c11.mp4" crc="3907173702" seo="true" mt="1477378375000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:home"/>
-    <file name="museutils.js" crc="3851988764" ref="index:home"/>
-    <file name="whatinput.js" crc="86476730" ref="index:home"/>
-    <file name="museconfig.js" crc="4242129463" ref="index:home"/>
-    <file name="pie.js" crc="3831537696" ref="home"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index:home"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="home"/>
-    <file name="webpro.js" crc="4067903014" ref="home"/>
-    <file name="form_check.php" crc="121412709" ref="home"/>
-    <file name="form_throttle.php" crc="4268640971" ref="home"/>
-    <file name="form_process.php" crc="444429785" ref="home"/>
-    <file name="form-u449.php" crc="4215441949" ref="home"/>
-    <file name="jquery.scrolleffects.js" crc="511146689" ref="home"/>
-    <file name="require.js" crc="4108833657" ref="index:home"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:coming-soon"/>
+    <file name="museutils.js" crc="3851988764" ref="index:coming-soon"/>
+    <file name="whatinput.js" crc="86476730" ref="index:coming-soon"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:coming-soon"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:coming-soon"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index:coming-soon"/>
   </folder>
   <folder name="images">
-    <file name="u94-grad.png" crc="375172440" ref="home"/>
-    <file name="keyboard-ieu236-fr.png" crc="501933578" ref="home"/>
-    <file name="keyboard.jpg" crc="4093777745" ref="home"/>
-    <file name="u200-grad.png" crc="3863657233" ref="home"/>
-    <file name="u239-grad.png" crc="4238865290" ref="home"/>
-    <file name="u242-grad.png" crc="3884057046" ref="home"/>
-    <file name="profile pic.jpg" crc="101992226" ref="home"/>
-    <file name="drone2.jpg" crc="3768450719" ref="home"/>
-    <file name="blank.gif" crc="4208392903" ref="home"/>
-    <file name="drone3.jpg" crc="3909867169" seo="true" ref="home"/>
-    <file name="drone1.jpg" crc="3832690311" ref="home"/>
-    <file name="u245-grad.png" crc="4236487581" ref="home"/>
-    <file name="logo png_00000-u1784.png" crc="4178163235" ref="home"/>
-    <file name="home depot1.jpg" crc="381040399" ref="home"/>
-    <file name="robot.jpg" crc="3964275118" ref="home"/>
-    <file name="firstoverview-3269.jpg" crc="4238157488" seo="true" ref="home"/>
-    <file name="u507-4.png" crc="3914775614" ref="home"/>
-    <file name="u451-17.png" crc="3933467474" ref="home"/>
-    <file name="u451-17-r.png" crc="4196472490" ref="home"/>
-    <file name="u451-17-m.png" crc="3917604340" ref="home"/>
-    <file name="u451-17-fs.png" crc="4236672989" ref="home"/>
-    <file name="angular logo-u2487.png" crc="4049080092" ref="home"/>
-    <file name="angular logo-u2487-r.png" crc="62662649" ref="home"/>
-    <file name="nativescript_logo-u2501.png" crc="3880244857" ref="home"/>
-    <file name="nativescript_logo-u2501-r.png" crc="4188190991" ref="home"/>
-    <file name="u2523.png" crc="168019566" ref="home"/>
-    <file name="u2523-r.png" crc="178735887" ref="home"/>
-    <file name="u2533.png" crc="38600784" ref="home"/>
-    <file name="u2533-r.png" crc="4037628033" ref="home"/>
+    <file name="u94-grad.png" crc="375172440" ref="index"/>
+    <file name="keyboard.jpg" crc="4093777745" ref="index"/>
+    <file name="u200-grad.png" crc="3863657233" ref="index"/>
+    <file name="u239-grad.png" crc="4238865290" ref="index"/>
+    <file name="u242-grad.png" crc="3884057046" ref="index"/>
+    <file name="profile pic.jpg" crc="101992226" ref="index"/>
+    <file name="drone2.jpg" crc="3768450719" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="drone3.jpg" crc="3909867169" seo="true" ref="index"/>
+    <file name="drone1.jpg" crc="3832690311" ref="index"/>
+    <file name="u245-grad.png" crc="4236487581" ref="index"/>
+    <file name="logo png_00000-u1784.png" crc="4178163235" ref="index"/>
+    <file name="home depot1.jpg" crc="381040399" ref="index"/>
+    <file name="robot.jpg" crc="3964275118" ref="index"/>
+    <file name="firstoverview-3269.jpg" crc="4238157488" seo="true" ref="index"/>
+    <file name="angular logo-u2487.png" crc="4049080092" ref="index"/>
+    <file name="angular logo-u2487-r.png" crc="62662649" ref="index"/>
+    <file name="nativescript_logo-u2501.png" crc="3880244857" ref="index"/>
+    <file name="nativescript_logo-u2501-r.png" crc="4188190991" ref="index"/>
+    <file name="u2523.png" crc="168019566" ref="index"/>
+    <file name="u2523-r.png" crc="178735887" ref="index"/>
+    <file name="u2533.png" crc="38600784" ref="index"/>
+    <file name="u2533-r.png" crc="4037628033" ref="index"/>
   </folder>
-  <file name="index.html" crc="335847153" seo="true" mt="1477365029794" redirect="true"/>
-  <file name="home.html" crc="347311680" seo="true" mt="1477378380111" redirect="true"/>
+  <file name="index.html" crc="281237384" seo="true" mt="1477416752490" redirect="true"/>
+  <file name="coming-soon.html" crc="525973616" seo="true" mt="1477416506963" redirect="true"/>
 </manifest>
