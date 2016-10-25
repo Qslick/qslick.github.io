@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1477416845348">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1477418012263">
   <folder name="css">
     <file name="site_global.css" crc="392513574"/>
-    <file name="master_a-master.css" crc="210332527" ref="index"/>
-    <file name="index.css" crc="520298448" ref="index"/>
+    <file name="master_a-master.css" crc="4040633653" ref="index"/>
+    <file name="index.css" crc="3766703767" ref="index"/>
     <file name="coming-soon.css" crc="391420033" ref="coming-soon"/>
   </folder>
   <folder name="assets">
@@ -44,6 +44,6 @@
     <file name="u2533.png" crc="38600784" ref="index"/>
     <file name="u2533-r.png" crc="4037628033" ref="index"/>
   </folder>
-  <file name="index.html" crc="281237384" seo="true" mt="1477416752490" redirect="true"/>
-  <file name="coming-soon.html" crc="525973616" seo="true" mt="1477416506963" redirect="true"/>
+  <file name="index.html" crc="58809808" seo="true" mt="1477417955054" redirect="true"/>
+  <file name="coming-soon.html" crc="525973616" seo="true" mt="1477417377724" redirect="true"/>
 </manifest>
