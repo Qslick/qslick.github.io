@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1477436185659">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1477454787505">
   <folder name="css">
     <file name="site_global.css" crc="392513574"/>
-    <file name="master_a-master.css" crc="4041592573" ref="index"/>
-    <file name="index.css" crc="3796711871" ref="index"/>
+    <file name="master_a-master.css" crc="394844518" ref="index"/>
+    <file name="index.css" crc="73857094" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="180408961" ref="index"/>
     <file name="nomq_index.css" crc="4085659545" ref="index"/>
   </folder>
@@ -93,5 +93,5 @@
     <file name="u25336.png" crc="68038433" ref="index"/>
     <file name="u2533-r6.png" crc="4080378811" ref="index"/>
   </folder>
-  <file name="index.html" crc="377562081" seo="true" mt="1477436130055" redirect="true"/>
+  <file name="index.html" crc="498922817" seo="true" mt="1477454761752" redirect="true"/>
 </manifest>
