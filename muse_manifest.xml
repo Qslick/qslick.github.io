@@ -1,38 +1,36 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1477537069030">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1477539916598">
   <folder name="css">
     <file name="site_global.css" crc="4147450205"/>
-    <file name="index.css" crc="4030232419" ref="index"/>
-    <file name="nomq_index.css" crc="488578450" ref="index"/>
-    <file name="master_experimental-master.css" crc="146010520" ref="experimental:index"/>
-    <file name="nomq_preview_master_experimental-master.css" crc="168117481" ref="experimental:index"/>
-    <file name="experimental.css" crc="4065410598" ref="experimental"/>
-    <file name="nomq_experimental.css" crc="4059419467" ref="experimental"/>
+    <file name="index.css" crc="362542437" ref="index"/>
+    <file name="nomq_index.css" crc="262997379" ref="index"/>
+    <file name="master_experimental-master.css" crc="3950282776" ref="index"/>
+    <file name="nomq_preview_master_experimental-master.css" crc="3839196135" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="c11.mp4" crc="3907173702" seo="true" mt="1477378375000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:experimental"/>
-    <file name="museutils.js" crc="3851988764" ref="index:experimental"/>
-    <file name="whatinput.js" crc="86476730" ref="index:experimental"/>
-    <file name="museconfig.js" crc="4242129463" ref="index:experimental"/>
-    <file name="pie.js" crc="3831537696" ref="index:experimental"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index:experimental"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:experimental"/>
-    <file name="jquery.scrolleffects.js" crc="511146689" ref="index:experimental"/>
-    <file name="require.js" crc="4108833657" ref="index:experimental"/>
-    <file name="jquery.museresponsive.js" crc="516761069" ref="index:experimental"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4242129463" ref="index"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
   </folder>
   <folder name="images">
     <file name="keyboard.jpg" crc="4093777745" ref="index"/>
-    <file name="profile pic.jpg" crc="101992226" ref="index:experimental"/>
-    <file name="drone2.jpg" crc="3768450719" ref="index:experimental"/>
-    <file name="blank.gif" crc="4208392903" ref="index:experimental"/>
-    <file name="drone3.jpg" crc="3909867169" seo="true" ref="index:experimental"/>
-    <file name="drone1.jpg" crc="3832690311" ref="index:experimental"/>
-    <file name="home depot1.jpg" crc="381040399" ref="index:experimental"/>
-    <file name="robot.jpg" crc="3964275118" ref="index:experimental"/>
-    <file name="firstoverview-3269.jpg" crc="4238157488" seo="true" ref="index:experimental"/>
+    <file name="profile pic.jpg" crc="101992226" ref="index"/>
+    <file name="drone2.jpg" crc="3768450719" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="drone3.jpg" crc="3909867169" seo="true" ref="index"/>
+    <file name="drone1.jpg" crc="3832690311" ref="index"/>
+    <file name="home depot1.jpg" crc="381040399" ref="index"/>
+    <file name="robot.jpg" crc="3964275118" ref="index"/>
+    <file name="firstoverview-3269.jpg" crc="4238157488" seo="true" ref="index"/>
     <file name="angular logo-u2487.png" crc="4049080092" ref="index"/>
     <file name="angular logo-u2487-r.png" crc="62662649" ref="index"/>
     <file name="nativescript_logo-u2501.png" crc="3880244857" ref="index"/>
@@ -73,8 +71,8 @@
     <file name="u2523-r5.png" crc="326899100" ref="index"/>
     <file name="u25335.png" crc="38600784" ref="index"/>
     <file name="u2533-r5.png" crc="4037628033" ref="index"/>
-    <file name="profile pic-u610-fr.jpg" crc="255781460" ref="index:experimental"/>
-    <file name="drone2-u2311-fr.jpg" crc="467022739" ref="index:experimental"/>
+    <file name="profile pic-u610-fr.jpg" crc="255781460" ref="index"/>
+    <file name="drone2-u2311-fr.jpg" crc="467022739" ref="index"/>
     <file name="angular logo-u24876.png" crc="4102616452" ref="index"/>
     <file name="angular logo-u2487-r6.png" crc="508980254" ref="index"/>
     <file name="nativescript_logo-u25016.png" crc="4219104414" ref="index"/>
@@ -83,10 +81,10 @@
     <file name="u2523-r6.png" crc="454007028" ref="index"/>
     <file name="u25336.png" crc="356587976" ref="index"/>
     <file name="u2533-r6.png" crc="4101391849" ref="index"/>
-    <file name="14013-nppvx2.svg" crc="75070521" seo="true" ref="index:experimental"/>
+    <file name="14013-nppvx2.svg" crc="75070521" seo="true" ref="index"/>
     <file name="14013-nppvx2_poster_.png" crc="194661474" ref="index"/>
     <file name="logo png_00000-u21342-fr.png" crc="424269738" ref="index"/>
-    <file name="logo png_00000-u13197.png" crc="4093993250" ref="index:experimental"/>
+    <file name="logo png_00000-u13197.png" crc="4093993250" ref="index"/>
     <file name="u13307-grad.png" crc="375172440" ref="index"/>
     <file name="u13187-grad.png" crc="3863657233" ref="index"/>
     <file name="u13191-grad.png" crc="4238865290" ref="index"/>
@@ -94,55 +92,6 @@
     <file name="u13195-grad.png" crc="4236487581" ref="index"/>
     <file name="u13187-grad2.png" crc="192501165" ref="index"/>
     <file name="u13195-grad2.png" crc="4083828165" ref="index"/>
-    <file name="angular logo-u13068.png" crc="4049080092" ref="experimental"/>
-    <file name="angular logo-u13068-r.png" crc="62662649" ref="experimental"/>
-    <file name="nativescript_logo-u13067.png" crc="3880244857" ref="experimental"/>
-    <file name="nativescript_logo-u13067-r.png" crc="4188190991" ref="experimental"/>
-    <file name="u13074.png" crc="168019566" ref="experimental"/>
-    <file name="u13074-r.png" crc="178735887" ref="experimental"/>
-    <file name="u13072.png" crc="38600784" ref="experimental"/>
-    <file name="u13072-r.png" crc="4037628033" ref="experimental"/>
-    <file name="angular logo-u130682.png" crc="4049080092" ref="experimental"/>
-    <file name="angular logo-u13068-r2.png" crc="62662649" ref="experimental"/>
-    <file name="nativescript_logo-u130672.png" crc="3880244857" ref="experimental"/>
-    <file name="nativescript_logo-u13067-r2.png" crc="4188190991" ref="experimental"/>
-    <file name="u130742.png" crc="168019566" ref="experimental"/>
-    <file name="u13074-r2.png" crc="178735887" ref="experimental"/>
-    <file name="u130722.png" crc="38600784" ref="experimental"/>
-    <file name="u13072-r2.png" crc="4037628033" ref="experimental"/>
-    <file name="angular logo-u130683.png" crc="4049080092" ref="experimental"/>
-    <file name="angular logo-u13068-r3.png" crc="62662649" ref="experimental"/>
-    <file name="nativescript_logo-u130673.png" crc="3880244857" ref="experimental"/>
-    <file name="nativescript_logo-u13067-r3.png" crc="4188190991" ref="experimental"/>
-    <file name="u130723.png" crc="38600784" ref="experimental"/>
-    <file name="u13072-r3.png" crc="4037628033" ref="experimental"/>
-    <file name="u130743.png" crc="168019566" ref="experimental"/>
-    <file name="u13074-r3.png" crc="178735887" ref="experimental"/>
-    <file name="angular logo-u130684.png" crc="4049080092" ref="experimental"/>
-    <file name="angular logo-u13068-r4.png" crc="62662649" ref="experimental"/>
-    <file name="nativescript_logo-u130674.png" crc="3880244857" ref="experimental"/>
-    <file name="nativescript_logo-u13067-r4.png" crc="4188190991" ref="experimental"/>
-    <file name="u130744.png" crc="168019566" ref="experimental"/>
-    <file name="u13074-r4.png" crc="178735887" ref="experimental"/>
-    <file name="u130724.png" crc="38600784" ref="experimental"/>
-    <file name="u13072-r4.png" crc="4037628033" ref="experimental"/>
-    <file name="angular logo-u130685.png" crc="4049080092" ref="experimental"/>
-    <file name="angular logo-u13068-r5.png" crc="62662649" ref="experimental"/>
-    <file name="nativescript_logo-u130675.png" crc="3880244857" ref="experimental"/>
-    <file name="nativescript_logo-u13067-r5.png" crc="4188190991" ref="experimental"/>
-    <file name="u130745.png" crc="3838417120" ref="experimental"/>
-    <file name="u13074-r5.png" crc="326899100" ref="experimental"/>
-    <file name="u130725.png" crc="38600784" ref="experimental"/>
-    <file name="u13072-r5.png" crc="4037628033" ref="experimental"/>
-    <file name="angular logo-u130686.png" crc="4102616452" ref="experimental"/>
-    <file name="angular logo-u13068-r6.png" crc="508980254" ref="experimental"/>
-    <file name="nativescript_logo-u130676.png" crc="4219104414" ref="experimental"/>
-    <file name="nativescript_logo-u13067-r6.png" crc="3852478087" ref="experimental"/>
-    <file name="u130746.png" crc="337354630" ref="experimental"/>
-    <file name="u13074-r6.png" crc="454007028" ref="experimental"/>
-    <file name="u130726.png" crc="356587976" ref="experimental"/>
-    <file name="u13072-r6.png" crc="4101391849" ref="experimental"/>
   </folder>
-  <file name="index.html" crc="64353059" seo="true" mt="1477536957445" redirect="true"/>
-  <file name="experimental.html" crc="472187777" seo="true" mt="1477536957445" redirect="true"/>
+  <file name="index.html" crc="4263843791" seo="true" mt="1477539843968" redirect="true"/>
 </manifest>

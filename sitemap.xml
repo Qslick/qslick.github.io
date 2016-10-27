@@ -7,12 +7,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://breedlove.xyz/experimental.html</loc>
-    <lastmod>2016-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://breedlove.xyz/images/drone3.jpg</loc>
     <lastmod>2016-10-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -25,13 +19,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://breedlove.xyz/images/firstoverview-3269.jpg</loc>
+    <loc>http://breedlove.xyz/images/14013-nppvx2.svg</loc>
     <lastmod>2016-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://breedlove.xyz/images/14013-nppvx2.svg</loc>
+    <loc>http://breedlove.xyz/images/firstoverview-3269.jpg</loc>
     <lastmod>2016-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
