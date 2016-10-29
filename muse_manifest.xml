@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1477539916598">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1477716382329">
   <folder name="css">
     <file name="site_global.css" crc="4147450205"/>
-    <file name="index.css" crc="362542437" ref="index"/>
-    <file name="nomq_index.css" crc="262997379" ref="index"/>
-    <file name="master_experimental-master.css" crc="3950282776" ref="index"/>
-    <file name="nomq_preview_master_experimental-master.css" crc="3839196135" ref="index"/>
+    <file name="index.css" crc="3844364516" ref="index"/>
+    <file name="nomq_index.css" crc="4140698020" ref="index"/>
+    <file name="master_experimental-master.css" crc="4243694754" ref="index"/>
+    <file name="nomq_preview_master_experimental-master.css" crc="3953996445" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="c11.mp4" crc="3907173702" seo="true" mt="1477378375000"/>
@@ -20,6 +20,10 @@
     <file name="jquery.scrolleffects.js" crc="511146689" ref="index"/>
     <file name="require.js" crc="4108833657" ref="index"/>
     <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
   </folder>
   <folder name="images">
     <file name="keyboard.jpg" crc="4093777745" ref="index"/>
@@ -92,6 +96,10 @@
     <file name="u13195-grad.png" crc="4236487581" ref="index"/>
     <file name="u13187-grad2.png" crc="192501165" ref="index"/>
     <file name="u13195-grad2.png" crc="4083828165" ref="index"/>
+    <file name="logo png_00000-u30576-fr.png" crc="3831879585" ref="index"/>
+    <file name="pointer.png" crc="3760686964" seo="true" ref="index"/>
+    <file name="menu_icon_04_white_3line-crop-u30613.png" crc="239667533" ref="index"/>
+    <file name="close_light.png" crc="126613487" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4263843791" seo="true" mt="1477539843968" redirect="true"/>
+  <file name="index.html" crc="4208588109" seo="true" mt="1477716343908" redirect="true"/>
 </manifest>
