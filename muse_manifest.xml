@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1477716382329">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1477985062610">
   <folder name="css">
     <file name="site_global.css" crc="4147450205"/>
-    <file name="index.css" crc="3844364516" ref="index"/>
-    <file name="nomq_index.css" crc="4140698020" ref="index"/>
-    <file name="master_experimental-master.css" crc="4243694754" ref="index"/>
-    <file name="nomq_preview_master_experimental-master.css" crc="3953996445" ref="index"/>
+    <file name="index.css" crc="4168783689" ref="index"/>
+    <file name="nomq_index.css" crc="310396318" ref="index"/>
+    <file name="master_experimental-master.css" crc="99940175" ref="index"/>
+    <file name="nomq_preview_master_experimental-master.css" crc="491470940" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="c11.mp4" crc="3907173702" seo="true" mt="1477378375000"/>
@@ -26,7 +26,6 @@
     <file name="touchswipe.js" crc="474750357" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="keyboard.jpg" crc="4093777745" ref="index"/>
     <file name="profile pic.jpg" crc="101992226" ref="index"/>
     <file name="drone2.jpg" crc="3768450719" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -86,7 +85,7 @@
     <file name="u25336.png" crc="356587976" ref="index"/>
     <file name="u2533-r6.png" crc="4101391849" ref="index"/>
     <file name="14013-nppvx2.svg" crc="75070521" seo="true" ref="index"/>
-    <file name="14013-nppvx2_poster_.png" crc="194661474" ref="index"/>
+    <file name="14013-nppvx2_poster_.png" crc="344332700" ref="index"/>
     <file name="logo png_00000-u21342-fr.png" crc="424269738" ref="index"/>
     <file name="logo png_00000-u13197.png" crc="4093993250" ref="index"/>
     <file name="u13307-grad.png" crc="375172440" ref="index"/>
@@ -100,6 +99,7 @@
     <file name="pointer.png" crc="3760686964" seo="true" ref="index"/>
     <file name="menu_icon_04_white_3line-crop-u30613.png" crc="239667533" ref="index"/>
     <file name="close_light.png" crc="126613487" seo="true" ref="index"/>
+    <file name="desk.jpg" crc="180098687" ref="index"/>
   </folder>
-  <file name="index.html" crc="4208588109" seo="true" mt="1477716343908" redirect="true"/>
+  <file name="index.html" crc="4228402415" seo="true" mt="1477985029355" redirect="true"/>
 </manifest>
