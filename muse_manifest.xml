@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1477985062610">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1477985561655">
   <folder name="css">
     <file name="site_global.css" crc="4147450205"/>
-    <file name="index.css" crc="4168783689" ref="index"/>
-    <file name="nomq_index.css" crc="310396318" ref="index"/>
-    <file name="master_experimental-master.css" crc="99940175" ref="index"/>
+    <file name="index.css" crc="429033726" ref="index"/>
+    <file name="nomq_index.css" crc="65784836" ref="index"/>
+    <file name="master_experimental-master.css" crc="3784764944" ref="index"/>
     <file name="nomq_preview_master_experimental-master.css" crc="491470940" ref="index"/>
   </folder>
   <folder name="assets">
@@ -101,5 +101,5 @@
     <file name="close_light.png" crc="126613487" seo="true" ref="index"/>
     <file name="desk.jpg" crc="180098687" ref="index"/>
   </folder>
-  <file name="index.html" crc="4228402415" seo="true" mt="1477985029355" redirect="true"/>
+  <file name="index.html" crc="3823700212" seo="true" mt="1477985507594" redirect="true"/>
 </manifest>
