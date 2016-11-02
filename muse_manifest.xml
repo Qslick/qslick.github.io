@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1477985561655">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1478100429192">
   <folder name="css">
     <file name="site_global.css" crc="4147450205"/>
-    <file name="index.css" crc="429033726" ref="index"/>
-    <file name="nomq_index.css" crc="65784836" ref="index"/>
-    <file name="master_experimental-master.css" crc="3784764944" ref="index"/>
-    <file name="nomq_preview_master_experimental-master.css" crc="491470940" ref="index"/>
+    <file name="index.css" crc="440377207" ref="index"/>
+    <file name="nomq_index.css" crc="3858995757" ref="index"/>
+    <file name="master_experimental-master.css" crc="281041942" ref="index"/>
+    <file name="nomq_preview_master_experimental-master.css" crc="3813169782" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="c11.mp4" crc="3907173702" seo="true" mt="1477378375000"/>
@@ -27,10 +27,10 @@
   </folder>
   <folder name="images">
     <file name="profile pic.jpg" crc="101992226" ref="index"/>
-    <file name="drone2.jpg" crc="3768450719" ref="index"/>
+    <file name="drone2.jpg" crc="3776901556" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="drone3.jpg" crc="3909867169" seo="true" ref="index"/>
-    <file name="drone1.jpg" crc="3832690311" ref="index"/>
+    <file name="drone3.jpg" crc="141800337" seo="true" ref="index"/>
+    <file name="drone1.jpg" crc="4141702775" ref="index"/>
     <file name="home depot1.jpg" crc="381040399" ref="index"/>
     <file name="robot.jpg" crc="3964275118" ref="index"/>
     <file name="firstoverview-3269.jpg" crc="4238157488" seo="true" ref="index"/>
@@ -50,40 +50,23 @@
     <file name="u2523-r2.png" crc="178735887" ref="index"/>
     <file name="u25332.png" crc="38600784" ref="index"/>
     <file name="u2533-r2.png" crc="4037628033" ref="index"/>
-    <file name="angular logo-u24873.png" crc="4049080092" ref="index"/>
-    <file name="angular logo-u2487-r3.png" crc="62662649" ref="index"/>
-    <file name="nativescript_logo-u25013.png" crc="3880244857" ref="index"/>
-    <file name="nativescript_logo-u2501-r3.png" crc="4188190991" ref="index"/>
-    <file name="u25233.png" crc="168019566" ref="index"/>
-    <file name="u2523-r3.png" crc="178735887" ref="index"/>
-    <file name="u25333.png" crc="38600784" ref="index"/>
-    <file name="u2533-r3.png" crc="4037628033" ref="index"/>
-    <file name="angular logo-u24874.png" crc="4049080092" ref="index"/>
-    <file name="angular logo-u2487-r4.png" crc="62662649" ref="index"/>
-    <file name="nativescript_logo-u25014.png" crc="3880244857" ref="index"/>
-    <file name="nativescript_logo-u2501-r4.png" crc="4188190991" ref="index"/>
-    <file name="u25234.png" crc="168019566" ref="index"/>
-    <file name="u2523-r4.png" crc="178735887" ref="index"/>
-    <file name="u25334.png" crc="38600784" ref="index"/>
-    <file name="u2533-r4.png" crc="4037628033" ref="index"/>
-    <file name="angular logo-u24875.png" crc="4049080092" ref="index"/>
-    <file name="angular logo-u2487-r5.png" crc="62662649" ref="index"/>
-    <file name="nativescript_logo-u25015.png" crc="3880244857" ref="index"/>
-    <file name="nativescript_logo-u2501-r5.png" crc="4188190991" ref="index"/>
-    <file name="u25235.png" crc="3838417120" ref="index"/>
-    <file name="u2523-r5.png" crc="326899100" ref="index"/>
-    <file name="u25335.png" crc="38600784" ref="index"/>
-    <file name="u2533-r5.png" crc="4037628033" ref="index"/>
-    <file name="profile pic-u610-fr.jpg" crc="255781460" ref="index"/>
-    <file name="drone2-u2311-fr.jpg" crc="467022739" ref="index"/>
-    <file name="angular logo-u24876.png" crc="4102616452" ref="index"/>
-    <file name="angular logo-u2487-r6.png" crc="508980254" ref="index"/>
-    <file name="nativescript_logo-u25016.png" crc="4219104414" ref="index"/>
-    <file name="nativescript_logo-u2501-r6.png" crc="3852478087" ref="index"/>
-    <file name="u25236.png" crc="337354630" ref="index"/>
-    <file name="u2523-r6.png" crc="454007028" ref="index"/>
-    <file name="u25336.png" crc="356587976" ref="index"/>
-    <file name="u2533-r6.png" crc="4101391849" ref="index"/>
+    <file name="angular logo-u24873.png" crc="4102616452" ref="index"/>
+    <file name="angular logo-u2487-r3.png" crc="508980254" ref="index"/>
+    <file name="nativescript_logo-u25013.png" crc="4219104414" ref="index"/>
+    <file name="nativescript_logo-u2501-r3.png" crc="3852478087" ref="index"/>
+    <file name="u25233.png" crc="337354630" ref="index"/>
+    <file name="u2523-r3.png" crc="454007028" ref="index"/>
+    <file name="u25333.png" crc="356587976" ref="index"/>
+    <file name="u2533-r3.png" crc="4101391849" ref="index"/>
+    <file name="angular logo-u24874.png" crc="4191575210" ref="index"/>
+    <file name="angular logo-u2487-r4.png" crc="306547019" ref="index"/>
+    <file name="nativescript_logo-u25014.png" crc="427888210" ref="index"/>
+    <file name="nativescript_logo-u2501-r4.png" crc="3939452049" ref="index"/>
+    <file name="u25234.png" crc="3929326441" ref="index"/>
+    <file name="u2523-r4.png" crc="4277642624" ref="index"/>
+    <file name="u25334.png" crc="3999014111" ref="index"/>
+    <file name="u2533-r4.png" crc="4177337209" ref="index"/>
+    <file name="drone2-u2311-fr.jpg" crc="482831570" ref="index"/>
     <file name="14013-nppvx2.svg" crc="75070521" seo="true" ref="index"/>
     <file name="14013-nppvx2_poster_.png" crc="344332700" ref="index"/>
     <file name="logo png_00000-u21342-fr.png" crc="424269738" ref="index"/>
@@ -93,13 +76,17 @@
     <file name="u13191-grad.png" crc="4238865290" ref="index"/>
     <file name="u13189-grad.png" crc="3884057046" ref="index"/>
     <file name="u13195-grad.png" crc="4236487581" ref="index"/>
-    <file name="u13187-grad2.png" crc="192501165" ref="index"/>
-    <file name="u13195-grad2.png" crc="4083828165" ref="index"/>
+    <file name="u13187-grad2.png" crc="4241502132" ref="index"/>
+    <file name="u13195-grad2.png" crc="3810011195" ref="index"/>
     <file name="logo png_00000-u30576-fr.png" crc="3831879585" ref="index"/>
     <file name="pointer.png" crc="3760686964" seo="true" ref="index"/>
     <file name="menu_icon_04_white_3line-crop-u30613.png" crc="239667533" ref="index"/>
     <file name="close_light.png" crc="126613487" seo="true" ref="index"/>
     <file name="desk.jpg" crc="180098687" ref="index"/>
+    <file name="drone1-u2300-fr.jpg" crc="513441950" ref="index"/>
+    <file name="drone2-u2311-fr2.jpg" crc="4223898630" ref="index"/>
+    <file name="drone1-u2300-fr2.jpg" crc="319229791" ref="index"/>
+    <file name="home depot1-u2407-fr.jpg" crc="4030206530" ref="index"/>
   </folder>
-  <file name="index.html" crc="3823700212" seo="true" mt="1477985507594" redirect="true"/>
+  <file name="index.html" crc="3812331645" seo="true" mt="1478100330636" redirect="true"/>
 </manifest>
