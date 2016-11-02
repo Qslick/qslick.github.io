@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1478100429192">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1478101023361">
   <folder name="css">
     <file name="site_global.css" crc="4147450205"/>
-    <file name="index.css" crc="440377207" ref="index"/>
-    <file name="nomq_index.css" crc="3858995757" ref="index"/>
-    <file name="master_experimental-master.css" crc="281041942" ref="index"/>
-    <file name="nomq_preview_master_experimental-master.css" crc="3813169782" ref="index"/>
+    <file name="index.css" crc="4168548902" ref="index"/>
+    <file name="nomq_index.css" crc="4257164423" ref="index"/>
+    <file name="master_experimental-master.css" crc="3858261994" ref="index"/>
+    <file name="nomq_preview_master_experimental-master.css" crc="61194729" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="c11.mp4" crc="3907173702" seo="true" mt="1477378375000"/>
@@ -87,6 +87,7 @@
     <file name="drone2-u2311-fr2.jpg" crc="4223898630" ref="index"/>
     <file name="drone1-u2300-fr2.jpg" crc="319229791" ref="index"/>
     <file name="home depot1-u2407-fr.jpg" crc="4030206530" ref="index"/>
+    <file name="desk-u13308-fr.jpg" crc="4056736807" ref="index"/>
   </folder>
-  <file name="index.html" crc="3812331645" seo="true" mt="1478100330636" redirect="true"/>
+  <file name="index.html" crc="530556527" seo="true" mt="1478100938091" redirect="true"/>
 </manifest>
