@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1478840104155">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1478886559133">
   <folder name="css">
     <file name="site_global.css" crc="4185517240"/>
-    <file name="master_master.css" crc="298236674" ref="index"/>
+    <file name="master_master.css" crc="4122556850" ref="index"/>
     <file name="nomq_preview_master_master.css" crc="359923551" ref="index"/>
-    <file name="index.css" crc="4294333817" ref="index"/>
-    <file name="nomq_index.css" crc="4254997964" ref="index"/>
+    <file name="index.css" crc="4239231215" ref="index"/>
+    <file name="nomq_index.css" crc="130834948" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="c11.mp4" crc="3907173702" seo="true" mt="1477378375000"/>
@@ -27,13 +27,13 @@
   <folder name="images">
     <file name="desk.jpg" crc="530645669" ref="index"/>
     <file name="profile pic.jpg" crc="101992226" ref="index"/>
-    <file name="robot-u2160-fr.jpg" crc="3993042737" ref="index"/>
+    <file name="robot-u2160-fr.jpg" crc="358826833" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="firstoverview-3269.jpg" crc="3845606982" seo="true" ref="index"/>
-    <file name="drone2-u2311-fr.jpg" crc="418414850" ref="index"/>
+    <file name="firstoverview-3269.jpg" crc="240875501" seo="true" ref="index"/>
+    <file name="drone2-u2311-fr.jpg" crc="3995065409" ref="index"/>
     <file name="drone3.jpg" crc="141800337" seo="true" ref="index"/>
-    <file name="drone1-u2300-fr.jpg" crc="264103169" ref="index"/>
-    <file name="home depot1-u2407-fr.jpg" crc="290086618" ref="index"/>
+    <file name="drone1-u2300-fr.jpg" crc="3978924133" ref="index"/>
+    <file name="home depot1-u2407-fr.jpg" crc="395234695" ref="index"/>
     <file name="angular logo-u2487.png" crc="4156057531" ref="index"/>
     <file name="angular logo-u2487-r.png" crc="4185300615" ref="index"/>
     <file name="nativescript_logo-u2501.png" crc="475450627" ref="index"/>
@@ -46,7 +46,7 @@
     <file name="14013-nppvx2_poster_.png" crc="501052465" ref="index"/>
     <file name="logo png_00000.png" crc="275656833" ref="index"/>
     <file name="logo png_00000-u13197.png" crc="4251987461" ref="index"/>
-    <file name="home depot1-u2407-fr2.jpg" crc="4085794158" ref="index"/>
+    <file name="home depot1-u2407-fr2.jpg" crc="471438239" ref="index"/>
     <file name="angular logo-u24872.png" crc="4156057531" ref="index"/>
     <file name="angular logo-u2487-r2.png" crc="4185300615" ref="index"/>
     <file name="nativescript_logo-u25012.png" crc="475450627" ref="index"/>
@@ -55,10 +55,10 @@
     <file name="u2523-r2.png" crc="103878069" ref="index"/>
     <file name="u25332.png" crc="36056481" ref="index"/>
     <file name="u2533-r2.png" crc="3758784918" ref="index"/>
-    <file name="robot-u2160-fr2.jpg" crc="416465309" ref="index"/>
-    <file name="drone2-u2311-fr2.jpg" crc="399982926" ref="index"/>
-    <file name="drone1-u2300-fr2.jpg" crc="3926502420" ref="index"/>
-    <file name="home depot1-u2407-fr3.jpg" crc="195119861" ref="index"/>
+    <file name="robot-u2160-fr2.jpg" crc="471098293" ref="index"/>
+    <file name="drone2-u2311-fr2.jpg" crc="3779466499" ref="index"/>
+    <file name="drone1-u2300-fr2.jpg" crc="289198122" ref="index"/>
+    <file name="home depot1-u2407-fr3.jpg" crc="3985262524" ref="index"/>
     <file name="angular logo-u24873.png" crc="4227972060" ref="index"/>
     <file name="angular logo-u2487-r3.png" crc="452910426" ref="index"/>
     <file name="nativescript_logo-u25013.png" crc="8037708" ref="index"/>
@@ -69,17 +69,17 @@
     <file name="u2523-r3.png" crc="318655081" ref="index"/>
     <file name="angular logo-u24874.png" crc="375628377" ref="index"/>
     <file name="angular logo-u2487-r4.png" crc="255662887" ref="index"/>
-    <file name="drone2.jpg" crc="474795234" ref="index"/>
-    <file name="drone1.jpg" crc="407860570" ref="index"/>
-    <file name="home depot1.jpg" crc="404567507" ref="index"/>
+    <file name="drone2.jpg" crc="29507663" ref="index"/>
+    <file name="drone1.jpg" crc="321964161" ref="index"/>
+    <file name="home depot1.jpg" crc="3972735565" ref="index"/>
     <file name="nativescript_logo-u25014.png" crc="315646554" ref="index"/>
     <file name="nativescript_logo-u2501-r4.png" crc="455531284" ref="index"/>
-    <file name="robot-u2160-fr3.jpg" crc="4083586433" ref="index"/>
+    <file name="robot-u2160-fr3.jpg" crc="3794846272" ref="index"/>
     <file name="u25334.png" crc="3772061422" ref="index"/>
     <file name="u2533-r4.png" crc="515496922" ref="index"/>
     <file name="u25234.png" crc="134348215" ref="index"/>
     <file name="u2523-r4.png" crc="3987454447" ref="index"/>
-    <file name="robot.jpg" crc="3782473487" ref="index"/>
+    <file name="robot.jpg" crc="231191047" ref="index"/>
     <file name="angular logo-u24875.png" crc="3919030034" ref="index"/>
     <file name="angular logo-u2487-r5.png" crc="4245453146" ref="index"/>
     <file name="u25235.png" crc="4091685828" ref="index"/>
@@ -91,6 +91,11 @@
     <file name="pointer.png" crc="3760686964" seo="true" ref="index"/>
     <file name="menu_icon_04_white_3line-crop-u30613.png" crc="4113681886" ref="index"/>
     <file name="close_light.png" crc="126613487" seo="true" ref="index"/>
+    <file name="firstoverview-3269237x157.jpg" crc="3842164583" seo="true" ref="index"/>
+    <file name="firstoverview-3269272x181.jpg" crc="4136118742" seo="true" ref="index"/>
+    <file name="firstoverview-3269260x173.jpg" crc="3944519223" seo="true" ref="index"/>
+    <file name="drone2-u2311-fr3.jpg" crc="4130094424" ref="index"/>
+    <file name="drone1-u2300-fr3.jpg" crc="418400024" ref="index"/>
   </folder>
-  <file name="index.html" crc="469970125" seo="true" mt="1478840072833" redirect="true"/>
+  <file name="index.html" crc="21782831" seo="true" mt="1478886551333" redirect="true"/>
 </manifest>
