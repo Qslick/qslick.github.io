@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1478838547330">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1478840104155">
   <folder name="css">
     <file name="site_global.css" crc="4185517240"/>
-    <file name="master_master.css" crc="4235547352" ref="index"/>
+    <file name="master_master.css" crc="298236674" ref="index"/>
     <file name="nomq_preview_master_master.css" crc="359923551" ref="index"/>
-    <file name="index.css" crc="240699062" ref="index"/>
+    <file name="index.css" crc="4294333817" ref="index"/>
     <file name="nomq_index.css" crc="4254997964" ref="index"/>
   </folder>
   <folder name="assets">
@@ -92,5 +92,5 @@
     <file name="menu_icon_04_white_3line-crop-u30613.png" crc="4113681886" ref="index"/>
     <file name="close_light.png" crc="126613487" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4118752743" seo="true" mt="1478838496762" redirect="true"/>
+  <file name="index.html" crc="469970125" seo="true" mt="1478840072833" redirect="true"/>
 </manifest>
