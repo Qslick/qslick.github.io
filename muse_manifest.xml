@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1478939253968">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1478976577682">
   <folder name="css">
     <file name="site_global.css" crc="4185517240"/>
-    <file name="master_master.css" crc="3905136572" ref="index"/>
-    <file name="nomq_preview_master_master.css" crc="4126115018" ref="index"/>
-    <file name="index.css" crc="386138920" ref="index"/>
-    <file name="nomq_index.css" crc="4269004862" ref="index"/>
-    <file name="master_b-master.css" crc="4262552527" ref="untitled-3"/>
-    <file name="untitled-3.css" crc="4000234512" ref="untitled-3"/>
+    <file name="master_master.css" crc="4169535852" ref="index"/>
+    <file name="nomq_preview_master_master.css" crc="73763391" ref="index"/>
+    <file name="index.css" crc="508973603" ref="index"/>
+    <file name="nomq_index.css" crc="4270458555" ref="index"/>
+    <file name="master_b-master.css" crc="4289363264" ref="jb"/>
+    <file name="jb.css" crc="4267735791" ref="jb"/>
   </folder>
   <folder name="assets">
     <file name="c11.mp4" crc="3907173702" seo="true" mt="1477378375000"/>
@@ -14,19 +14,19 @@
     <file name="resume-james-breedlove.pdf" crc="4107491790" seo="true" mt="1478928845000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-3"/>
-    <file name="museutils.js" crc="163421577" ref="index:untitled-3"/>
-    <file name="whatinput.js" crc="86476730" ref="index:untitled-3"/>
-    <file name="museconfig.js" crc="168988563" ref="index:untitled-3"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:untitled-3"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jb"/>
+    <file name="museutils.js" crc="163421577" ref="index:jb"/>
+    <file name="whatinput.js" crc="86476730" ref="index:jb"/>
+    <file name="museconfig.js" crc="168988563" ref="index:jb"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:jb"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:jb"/>
     <file name="webpro.js" crc="3848665353" ref="index"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
     <file name="touchswipe.js" crc="404375771" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
     <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index:untitled-3"/>
+    <file name="require.js" crc="244322403" ref="index:jb"/>
   </folder>
   <folder name="images">
     <file name="14013-nppvx2.svg" crc="75070521" seo="true" ref="index"/>
@@ -100,7 +100,8 @@
     <file name="pointer.png" crc="3760686964" seo="true" ref="index"/>
     <file name="menu_icon_04_white_3line-crop-u30613.png" crc="4113681886" ref="index"/>
     <file name="close_light.png" crc="126613487" seo="true" ref="index"/>
+    <file name="profile pic2.jpg" crc="430545805" ref="jb"/>
   </folder>
-  <file name="index.html" crc="330708690" seo="true" mt="1478939198243" redirect="true"/>
-  <file name="untitled-3.html" crc="194012243" seo="true" mt="1478939028923" redirect="true"/>
+  <file name="index.html" crc="28846053" seo="true" mt="1478976500494" redirect="true"/>
+  <file name="jb.html" crc="335436687" seo="true" mt="1478976205924" redirect="true"/>
 </manifest>
