@@ -1,13 +1,15 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1478923892057">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1478930998845">
   <folder name="css">
     <file name="site_global.css" crc="4185517240"/>
-    <file name="master_master.css" crc="418632141" ref="index"/>
-    <file name="nomq_preview_master_master.css" crc="62885130" ref="index"/>
-    <file name="index.css" crc="4121382019" ref="index"/>
-    <file name="nomq_index.css" crc="3999749321" ref="index"/>
+    <file name="master_master.css" crc="6994827" ref="index"/>
+    <file name="nomq_preview_master_master.css" crc="391741809" ref="index"/>
+    <file name="index.css" crc="3980270848" ref="index"/>
+    <file name="nomq_index.css" crc="3782850567" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="c11.mp4" crc="3907173702" seo="true" mt="1477378375000"/>
+    <file name="resume-james-breedlove.docx" crc="4098637811" seo="true" mt="1478928794000"/>
+    <file name="resume-james-breedlove.pdf" crc="4107491790" seo="true" mt="1478928845000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -97,5 +99,5 @@
     <file name="menu_icon_04_white_3line-crop-u30613.png" crc="4113681886" ref="index"/>
     <file name="close_light.png" crc="126613487" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="491075844" seo="true" mt="1478923666159" redirect="true"/>
+  <file name="index.html" crc="3868621376" seo="true" mt="1478930982918" redirect="true"/>
 </manifest>
