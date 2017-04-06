@@ -1,43 +1,72 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1478983616880">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1491517194316">
   <folder name="css">
     <file name="site_global.css" crc="4185517240"/>
-    <file name="master_master.css" crc="4169535852" ref="index"/>
-    <file name="nomq_preview_master_master.css" crc="73763391" ref="index"/>
-    <file name="index.css" crc="508973603" ref="index"/>
-    <file name="nomq_index.css" crc="4270458555" ref="index"/>
+    <file name="master_b-master.css" crc="4289363264" ref="jb"/>
+    <file name="master_master.css" crc="3862296766" ref="index"/>
+    <file name="nomq_preview_master_master.css" crc="464224761" ref="index"/>
+    <file name="jb.css" crc="4267735791" ref="jb"/>
+    <file name="index.css" crc="3931578891" ref="index"/>
+    <file name="nomq_index.css" crc="119952759" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="c11.mp4" crc="3907173702" seo="true" mt="1477378375000"/>
-    <file name="resume-james-breedlove.docx" crc="4098637811" seo="true" mt="1478928794000"/>
+    <file name="resume-james-breedlove.docx" crc="4110303430" seo="true" mt="1487797709000"/>
     <file name="resume-james-breedlove.pdf" crc="4107491790" seo="true" mt="1478928845000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="168988563" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="webpro.js" crc="3848665353" ref="index"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
-    <file name="touchswipe.js" crc="404375771" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jb"/>
+    <file name="museutils.js" crc="4232573551" ref="index:jb"/>
+    <file name="whatinput.js" crc="86476730" ref="index:jb"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:jb"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:jb"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:jb"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index:jb"/>
   </folder>
   <folder name="images">
-    <file name="14013-nppvx2.svg" crc="75070521" seo="true" ref="index"/>
+    <file name="14013-nppvx2.svg" crc="75070521" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="14013-nppvx2_poster_.png" crc="501052465" ref="index"/>
-    <file name="logo png_00000.png" crc="275656833" ref="index"/>
+    <file name="logo png_00000.png" crc="275656833" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="logo png_00000-u13197.png" crc="4251987461" ref="index"/>
-    <file name="desk.jpg" crc="530645669" ref="index"/>
-    <file name="profile pic.jpg" crc="101992226" ref="index"/>
+    <file name="desk.jpg" crc="530645669" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="profile pic.jpg" crc="101992226" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="robot-u2160-fr.jpg" crc="358826833" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="firstoverview-3269237x157.jpg" crc="3842164583" seo="true" ref="index"/>
+    <file name="firstoverview-3269237x157.jpg" crc="3842164583" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="drone2-u2311-fr.jpg" crc="3995065409" ref="index"/>
-    <file name="drone3.jpg" crc="141800337" seo="true" ref="index"/>
+    <file name="drone3.jpg" crc="141800337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="drone1-u2300-fr.jpg" crc="3978924133" ref="index"/>
     <file name="home depot1-u2407-fr.jpg" crc="395234695" ref="index"/>
     <file name="angular logo-u2487.png" crc="4156057531" ref="index"/>
@@ -57,23 +86,30 @@
     <file name="u2523-r2.png" crc="103878069" ref="index"/>
     <file name="u25332.png" crc="36056481" ref="index"/>
     <file name="u2533-r2.png" crc="3758784918" ref="index"/>
-    <file name="firstoverview-3269272x181.jpg" crc="4136118742" seo="true" ref="index"/>
+    <file name="firstoverview-3269272x181.jpg" crc="4136118742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="robot-u2160-fr2.jpg" crc="471098293" ref="index"/>
     <file name="drone2-u2311-fr2.jpg" crc="3779466499" ref="index"/>
     <file name="drone1-u2300-fr2.jpg" crc="289198122" ref="index"/>
     <file name="home depot1-u2407-fr3.jpg" crc="3985262524" ref="index"/>
-    <file name="angular logo-u24873.png" crc="4227972060" ref="index"/>
-    <file name="angular logo-u2487-r3.png" crc="452910426" ref="index"/>
     <file name="nativescript_logo-u25013.png" crc="8037708" ref="index"/>
     <file name="nativescript_logo-u2501-r3.png" crc="169760294" ref="index"/>
+    <file name="angular logo-u24873.png" crc="4227972060" ref="index"/>
+    <file name="angular logo-u2487-r3.png" crc="452910426" ref="index"/>
     <file name="u25333.png" crc="84238775" ref="index"/>
     <file name="u2533-r3.png" crc="168482203" ref="index"/>
     <file name="u25233.png" crc="4199723409" ref="index"/>
     <file name="u2523-r3.png" crc="318655081" ref="index"/>
-    <file name="firstoverview-3269260x173.jpg" crc="3944519223" seo="true" ref="index"/>
+    <file name="firstoverview-3269260x173.jpg" crc="3944519223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="drone2-u2311-fr3.jpg" crc="4130094424" ref="index"/>
     <file name="drone1-u2300-fr3.jpg" crc="418400024" ref="index"/>
-    <file name="home depot1.jpg" crc="3972735565" ref="index"/>
+    <file name="home depot1.jpg" crc="3972735565" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="angular logo-u24874.png" crc="375628377" ref="index"/>
     <file name="angular logo-u2487-r4.png" crc="255662887" ref="index"/>
     <file name="u25334.png" crc="3772061422" ref="index"/>
@@ -83,10 +119,18 @@
     <file name="nativescript_logo-u2501-r4.png" crc="455531284" ref="index"/>
     <file name="u25234.png" crc="134348215" ref="index"/>
     <file name="u2523-r4.png" crc="3987454447" ref="index"/>
-    <file name="robot.jpg" crc="231191047" ref="index"/>
-    <file name="firstoverview-3269.jpg" crc="240875501" seo="true" ref="index"/>
-    <file name="drone2.jpg" crc="29507663" ref="index"/>
-    <file name="drone1.jpg" crc="321964161" ref="index"/>
+    <file name="robot.jpg" crc="231191047" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="firstoverview-3269.jpg" crc="240875501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drone2.jpg" crc="29507663" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drone1.jpg" crc="321964161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="angular logo-u24875.png" crc="3919030034" ref="index"/>
     <file name="angular logo-u2487-r5.png" crc="4245453146" ref="index"/>
     <file name="u25235.png" crc="4091685828" ref="index"/>
@@ -95,9 +139,22 @@
     <file name="nativescript_logo-u2501-r5.png" crc="3846341927" ref="index"/>
     <file name="u25335.png" crc="4093226876" ref="index"/>
     <file name="u2533-r5.png" crc="46331700" ref="index"/>
-    <file name="pointer.png" crc="3760686964" seo="true" ref="index"/>
-    <file name="menu_icon_04_white_3line-crop-u30613.png" crc="4113681886" ref="index"/>
-    <file name="close_light.png" crc="126613487" seo="true" ref="index"/>
+    <file name="pointer.png" crc="3760686964" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_icon_04_white_3line-crop-u30613.png" crc="4113681886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close_light.png" crc="126613487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="profile pic2.jpg" crc="430545805" ref="jb">
+      <caption webpage="jb" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="28846053" seo="true" mt="1478976500494" redirect="true"/>
+  <file name="index.html" crc="118765173" seo="true" mt="1491517140015" redirect="true"/>
+  <file name="jb.html" crc="4126014970" seo="true" mt="1478976205924" redirect="true"/>
 </manifest>
