@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1491517194316">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="breedlove.xyz" resolutions="1x" timestamp="1491531406691">
   <folder name="css">
     <file name="site_global.css" crc="4185517240"/>
     <file name="master_b-master.css" crc="4289363264" ref="jb"/>
-    <file name="master_master.css" crc="3862296766" ref="index"/>
+    <file name="master_master.css" crc="282176828" ref="index"/>
     <file name="nomq_preview_master_master.css" crc="464224761" ref="index"/>
     <file name="jb.css" crc="4267735791" ref="jb"/>
-    <file name="index.css" crc="3931578891" ref="index"/>
-    <file name="nomq_index.css" crc="119952759" ref="index"/>
+    <file name="index.css" crc="3798368614" ref="index"/>
+    <file name="nomq_index.css" crc="3972825431" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="c11.mp4" crc="3907173702" seo="true" mt="1477378375000"/>
@@ -155,6 +155,6 @@
       <caption webpage="jb" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="118765173" seo="true" mt="1491517140015" redirect="true"/>
+  <file name="index.html" crc="135913227" seo="true" mt="1491531371474" redirect="true"/>
   <file name="jb.html" crc="4126014970" seo="true" mt="1478976205924" redirect="true"/>
 </manifest>
